@@ -1,7 +1,7 @@
 # Unsupervised Machine Learning: Clustering Analysis Project
 
 ## Overview
-This project is focused on **Exploratory Data Analysis** using unsupervised machine learning techniques to analyze and segment a dataset with clustering algorithms. The **K-Means** and **Agglomerative Hierarchical Clustering (AHC)** models have been applied to form clusters, meeting the objective of product segmentation for targeted marketing and logistics. 
+This project is focused on **Exploratory Data Analysis** using unsupervised machine learning techniques to analyze and segment a dataset with clustering algorithms. The **K-Means** , **Agglomerative Hierarchical Clustering (AHC)**, **DBSCAN** and **BIRCH** models have been applied to form clusters, meeting the objective of product segmentation for targeted marketing and logistics. 
 
 Model performance is evaluated using:
 - **Silhouette Coefficient**
